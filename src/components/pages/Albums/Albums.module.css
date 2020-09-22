@@ -1,0 +1,8 @@
+.deck {
+    max-width: 700px !important;
+    /* background-color: cadetblue; */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: flex;
+    justify-content: space-evenly;
+}

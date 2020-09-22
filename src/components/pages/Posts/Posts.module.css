@@ -1,0 +1,7 @@
+.deck {
+    max-width: 700px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: flex;
+    justify-content: space-evenly;
+}
